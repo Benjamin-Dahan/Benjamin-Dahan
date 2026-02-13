@@ -18,4 +18,4 @@ Currently working as a Research Intern at ENS Ulm (Institut Jean Nicod) on Compu
 * **Core Skills:** Algorithm Optimization, Data Analysis, Low-Level implementation.
 
 ---
-📫 **Contact:** [benjamin.dahan@dauphine.eu](mailto:benjamin.dahan@dauphine.eu) | [LinkedIn](ton_lien_linkedin)
+📫 **Contact:** [benjamin.dahan@dauphine.eu](mailto:benjamin.dahan@dauphine.eu) 
