@@ -1,8 +1,8 @@
 ### Hi there, I'm Benjamin Dahan! 👋
 
-I am a **Mathematics & Computer Science Student** at **Université Paris Dauphine - PSL** (#1 French University), passionate about Algorithms, Research, and Low-Level Programming.
+I am a Mathematics & Computer Science Student at Université Paris Dauphine - PSL (#1 French University), passionate about Algorithms, Research, and Low-Level Programming.
 
-Currently working as a **Research Intern** at **ENS Ulm (Institut Jean Nicod)** on Computational Cognitive Science.
+Currently working as a Research Intern at ENS Ulm (Institut Jean Nicod) on Computational Cognitive Science.
 
 ---
 
