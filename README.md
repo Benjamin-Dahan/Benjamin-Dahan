@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Benjamin Dahan! 👋
 
-<!--
-**Benjamin-Dahan/Benjamin-Dahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Mathematics & Computer Science Student** at **Université Paris Dauphine - PSL** (#1 French University), passionate about Algorithms, Research, and Low-Level Programming.
 
-Here are some ideas to get you started:
+Currently working as a **Research Intern** at **ENS Ulm (Institut Jean Nicod)** on Computational Cognitive Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+* 🎓 **Education:** B.Sc. in Math & CS (Ranked Top 13%).
+* 🔭 **Current Focus:** Mathematics, Computer Vision, and Cognitive Modeling.
+* 💼 **Experience:** Quantitative Dev Intern (Marex) & Research Intern (ENS Ulm).
+* ♟️ **Hobbies:** Competitive Chess (1700 ELO), Esports (Top 0.1% Fortnite).
+
+### 🛠️ Tech Stack
+* **Languages:** Python, C, VBA, SQL, OCaml, LaTeX.
+* **Tools:** Git, VS Code, OpenMP.
+* **Core Skills:** Algorithm Optimization, Data Analysis, Low-Level implementation.
+
+---
+📫 **Contact:** [benjamin.dahan@dauphine.eu](mailto:benjamin.dahan@dauphine.eu) | [LinkedIn](ton_lien_linkedin)
