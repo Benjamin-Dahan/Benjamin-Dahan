@@ -7,10 +7,10 @@ Currently working as a Research Intern at ENS Ulm (Institut Jean Nicod) on Compu
 ---
 
 ### 🚀 About Me
-* 🎓 **Education:** B.Sc. in Math & CS (Ranked Top 13%).
+* 🎓 **Education:** B.Sc. in Math & CS.
 * 🔭 **Current Focus:** Mathematics, Computer Vision, and Cognitive Modeling.
 * 💼 **Experience:** Quantitative Dev Intern (Marex) & Research Intern (ENS Ulm).
-* ♟️ **Hobbies:** Competitive Chess (1700 ELO), Esports (Top 0.1% Fortnite).
+* ♟️ **Hobbies:** Competitive Chess, Esports and Sports.
 
 ### 🛠️ Tech Stack
 * **Languages:** Python, C, VBA, SQL, HTML/CSS, LaTeX.
