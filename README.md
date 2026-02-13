@@ -13,7 +13,7 @@ Currently working as a Research Intern at ENS Ulm (Institut Jean Nicod) on Compu
 * ♟️ **Hobbies:** Competitive Chess (1700 ELO), Esports (Top 0.1% Fortnite).
 
 ### 🛠️ Tech Stack
-* **Languages:** Python, C, VBA, SQL, OCaml, LaTeX.
+* **Languages:** Python, C, VBA, SQL, HTML/CSS, LaTeX.
 * **Tools:** Git, VS Code, OpenMP.
 * **Core Skills:** Algorithm Optimization, Data Analysis, Low-Level implementation.
 
